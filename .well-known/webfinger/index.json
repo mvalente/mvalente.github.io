@@ -1,0 +1,10 @@
+{
+	"subject": "acct:now@so-what.marrus.xyz",
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/ld+json; profile=\"https://www.w3.org/ns/activitystreams\"",
+			"href": "https://so-what.marrus.xyz/now.jsonld"
+		}
+	]
+}
