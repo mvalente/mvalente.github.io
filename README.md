@@ -1,5 +1,14 @@
-i made this at 2AM lying in bed on my iPhone
+# mvalente.github.io
 
-so what now??
+An experience in static ActivityPub files and Steem blog posts
 
-<https://so-what.marrus.xyz/>
+
+A forking/merging of
+
+https://github.com/ausbitbank/ausbitbank.github.io
+minimalist blog pulling post data from the steem blockchain
+
+and
+
+https://github.com/marrus-sh/so-what
+
