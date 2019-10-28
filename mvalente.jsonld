@@ -7,7 +7,6 @@
 	"id": "https://mvalente.github.io/mvalente.jsonld",
 	"name": "MVALENTE",
 	"preferredUsername": "mvalente",
-	"icon":{"type":"Image","mediaType":"image/png","url":"https://mvalente.github.io/mvalente.png"}
 	"summaryMap": {
 		"en": "An experiment in static Activitypub"
 	},
