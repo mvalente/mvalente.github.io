@@ -5,7 +5,7 @@
 	],
 	"type": "Person",
 	"id": "https://mvalente.github.io/mvalente.jsonld",
-	"name": "MVALENTE2022",
+	"name": "MVALENTE",
 	"icon":{"type":"Image","mediaType":"image/png","url":"https://mvalente.github.io/mvalente.png"},
 	"preferredUsername": "mvalente",
 	"summaryMap": {
