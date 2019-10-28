@@ -10,5 +10,6 @@ minimalist blog pulling post data from the steem blockchain
 
 and
 
-https://github.com/marrus-sh/so-what
+https://github.com/marrus-sh/so-what 
+a template for serving static ActivityPub files
 
