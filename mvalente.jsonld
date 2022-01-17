@@ -4,24 +4,24 @@
 		"https://w3id.org/security/v1"
 	],
 	"type": "Person",
-	"id": "https://mvalente.github.io/mvalente.jsonld",
-	"name": "MVALENTE","icon":{"type":"Image","mediaType":"image/png","url":"https://mvalente.github.io/mvalente.png"},"preferredUsername": "mvalente",
+	"id": "https://maverick.pt/mvalente.jsonld",
+	"name": "MValente","icon":{"type":"Image","mediaType":"image/png","url":"https://mvalente.github.io/mvalente.png"},"preferredUsername": "mvalente",
 	"summaryMap": {
-		"en": "An experiment in static Activitypub"
+		"en": "Bricklayer at Blockchain Heavy Industries"
 	},
-	"inbox": "https://so-what.marrus.xyz/.inbox",
-	"outbox": "https://so-what.marrus.xyz/.outbox",
+	"inbox": "https://mvalente.eu/.inbox",
+	"outbox": "https://mvalente.eu/.outbox",
 	"url": [
 		{
 			"type": "Link",
 			"mediaType": "text/html",
 			"rel": "alternate",
-			"href": "https://mvalente.github.io/"
+			"href": "https://mvalente.eu/"
 		}
 	],
 	"publicKey": {
-		"id": "https://mvalente.github.io/mvalente.jsonld#publicKey",
-		"owner": "https://mvalente.github.io/mvalente.jsonld",
+		"id": "https://maverick.pt/mvalente.jsonld#publicKey",
+		"owner": "https://maverick.pt/mvalente.jsonld",
 		"publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt5iUAjcMHk8rJNvvfC/6\n5iVdcM81RwQHy3TIesCUufr77JPkrTCyI6GzARhJwTbUMdNMlxK7N4fvN6K99w+U\nQuidOjSkLC1c8nGQ8h3SmovPFCBCx5Y33sROQ5bVC9epwhXrsHFSd5RPA9ZukoYm\nfcLnFbfjtCpvsK6ECGJ1/d97l82Zdd0gNS0/iD5kPycp4d2r3olNIvfYotA6xz1D\nsC9ODIcxi/Omb0Tf1+ARvXkxLi4BErmokla/DyurDUErN8Nbq70GKeSbN+88W+DT\n3U8M0y0e7+wOum15cZAgltvnlKeQ8tIoFEGToVm/5rj+sh0KxfdVS9f6xuvKpy3z\nmQIDAQAB\n-----END PUBLIC KEY-----"
 	}
 }
